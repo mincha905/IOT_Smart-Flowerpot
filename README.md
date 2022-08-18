@@ -3,12 +3,12 @@
 사용자에게 현재 집안 상태를 알려주는 시스템이다.
 <br>
 <h3>개발환경</h3>
-OS : Raspbian JESSIE
-Language : JAVA / HTML / CSS / Javascript / SQL
-Framework : Spring Framework
+OS : Raspbian
 Device : Raspberry Pi 2, Arduino Uno 3
-Server : Apache Tomcat 8.0 / MariaDB
-DevTools : InteliJ, CLion
+DevTools : Node-RED
+Language : C / HTML / CSS / Javascript
+Framework : Bootstrap
+
 <br>
 <h3>기능</h3>
 
