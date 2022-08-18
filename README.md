@@ -3,11 +3,11 @@
 사용자에게 현재 집안 상태를 알려주는 시스템이다.
 <br>
 <h3>개발환경</h3>
-OS : Raspbian
-Device : Raspberry Pi 2, Arduino Uno 3
-DevTools : Node-RED
-Language : C / HTML / CSS / Javascript
-Framework : Bootstrap
+OS : Raspbian<br>
+Device : Raspberry Pi 2, Arduino Uno 3<br>
+DevTools : Node-RED<br>
+Language : C / HTML / CSS / Javascript<br>
+Framework : Bootstrap<br>
 
 <br>
 <h3>기능</h3>
