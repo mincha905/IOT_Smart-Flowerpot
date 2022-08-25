@@ -10,5 +10,5 @@ Language : C / HTML / CSS / Javascript<br>
 Framework : Bootstrap<br>
 
 <br>
-<h3>기능</h3>
+<h3>기능</h3> https://github.com/Smart-flowerpot/Smart-Flowerpot-Arduino
 
